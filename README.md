@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/DSivtsov/SeaWind/main/assets/ChatGPSeaWindLogo.png" alt="SeaWind Logo" width="200"/>
-</p>
-
-<h1 align="center">SeaWind ASP.NET Project</h1>
+<h1 align="center">TestSeaWind</h1>
 
 <p align="center">
   <a href="https://github.com/username/repo/blob/main/LICENSE">
@@ -16,8 +12,7 @@
 ---
 
 ## 🚀 About
-
-SeaWind is a sample **ASP.NET Core** project.  
+Test copy of SeaWind ASP.NET Project.
 It demonstrates best practices for building modern web apps with C#, .NET, and GitHub Actions CI/CD.
 
 ---
